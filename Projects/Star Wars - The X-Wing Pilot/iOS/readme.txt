@@ -1,2 +1,2 @@
 Unfortunately we couldn't upload our iOS build on GitHub because it is too large. This build can be accessible on Google Drive here:
-https://drive.google.com/drive/folders/1XOBZef-_vW_3r2TPlI3rVPKYZv-uF6hl
+https://drive.google.com/drive/folders/1etbZ36bA_osr5byMxdap6U1vMVMsfHvh
